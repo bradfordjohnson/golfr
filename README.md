@@ -14,7 +14,7 @@ Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round 
 ## How It Works
 
 - **Automated via GitHub Actions:**  
-  The workflow triggers daily at 5:00 AM UTC, running the R script `src/simulate_game.R` and updating the plot.
+  The workflow triggers daily at 5:00 AM UTC, running the R script `simulate_game.R` and updating the plot.
 
 - **Shot Simulation Details:**  
   - Clubs modeled with distance means and variability  
