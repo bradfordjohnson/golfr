@@ -31,8 +31,6 @@ Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round 
 
 ![Daily Topgolf Simulation](topgolf-sim.png)
 
----
-
 ## Running golfr Locally
 
 1. Install R packages:
