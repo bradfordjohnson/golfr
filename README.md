@@ -1,6 +1,6 @@
 # golfr
 
-Daily Topgolf Simulation in R ⛳️📊 | [![daily-game](https://github.com/bradfordjohnson/golfr/actions/workflows/daily-game.yml/badge.svg)](https://github.com/bradfordjohnson/golfr/actions/workflows/daily-game.yml)
+Daily Topgolf Simulation in R ⛳️📊 [![daily-game](https://github.com/bradfordjohnson/golfr/actions/workflows/daily-game.yml/badge.svg)](https://github.com/bradfordjohnson/golfr/actions/workflows/daily-game.yml)
 
 Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round with realistic shot physics, player tendencies, and environmental effects — all visualized beautifully.
 
