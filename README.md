@@ -4,6 +4,12 @@ Daily Topgolf Simulation in R ⛳️📊 [![daily-game](https://github.com/bradf
 
 Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round with realistic shot physics, player tendencies, and environmental effects — all visualized beautifully.
 
+## See the Latest Game
+
+*Timestamp and conditions appear on the plot subtitle.*
+
+![Daily Topgolf Simulation](topgolf-sim.png)
+
 ## What golfr Does
 
 - Runs a daily simulation of 20 shots using R, modeling various clubs and player skill.
@@ -33,12 +39,6 @@ Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round 
 - **Outputs:**  
   - A plot (`topgolf-sim.png`) visualizing targets, shot distribution, and round stats  
   - Console output with detailed round metrics (hits, misses, points, bias, wind)
-
-## See the Latest Game
-
-*Timestamp and conditions appear on the plot subtitle.*
-
-![Daily Topgolf Simulation](topgolf-sim.png)
 
 ## Running golfr Locally
 
