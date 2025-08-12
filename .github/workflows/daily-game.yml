@@ -31,7 +31,7 @@ jobs:
             any::ggforce
 
       - name: Run simulation script
-        run: Rscript src/simulate_game.R
+        run: Rscript simulate_game.R
 
       - name: Commit and push changes
         env:
