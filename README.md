@@ -28,11 +28,10 @@ Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round 
   - **Player Bias Simulation:** Left/right shot tendencies simulate player quirks and consistent directional offsets.  
   - **Environmental Wind Effects:** Horizontal and vertical offsets model wind influence on shots.  
   - **Dynamic Scoring System:** Shots are scored based on landing inside circular targets or a rectangular trench, with higher points for farther zones.  
-  - **Skill Factor:** Adjusts shot consistency by scaling the shot spread, simulating more or less skilled players.  
   - **Extensible Design:** Easily add or customize clubs, targets, and environmental effects for more complex simulations.
 
 - **Outputs:**  
-  - A plot (`plots/topgolf-sim.png`) visualizing targets, shot distribution, and round stats  
+  - A plot (`topgolf-sim.png`) visualizing targets, shot distribution, and round stats  
   - Console output with detailed round metrics (hits, misses, points, bias, wind)
 
 ## See the Latest Game
