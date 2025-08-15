@@ -8,7 +8,7 @@ Welcome to **golfr**, an R-powered project that simulates a daily Topgolf round 
 
 *Timestamp and conditions appear on the plot subtitle.*
 
-![Daily Topgolf Simulation](topgolf-sim.png)
+<img src="topgolf-sim.png" width="65%">
 
 ## What golfr Does
 
